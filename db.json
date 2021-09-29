@@ -1,0 +1,22 @@
+{
+  "Herois": [
+    {
+      "id": 1,
+      "nome": "Homem-Aranha",
+      "nome Real": "Peter Parker",
+      "afiliação": "Vingadores"
+    },
+    {
+      "id": 2,
+      "nome": "Homem de ferro",
+      "nome Real": "Tony stark",
+      "afiliação": "Vingadores"
+    },
+    {
+      "id": 3,
+      "nome": "Capitão America",
+      "nome Real": "Steven Rogers",
+      "afiliação": "Vingadores"
+    }
+  ]
+}
